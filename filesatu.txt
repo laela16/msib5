@@ -2,3 +2,4 @@ Pembelajaran MSIB
 -HTML adalah kerangka website
 -CSS merapihkan dokumen dan mewarnai dokumen HTML
 -Github adalah pembelajaran untuk dapat berkerjasama didalam project
+file ini telah diedit
